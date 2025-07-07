@@ -80,8 +80,7 @@ This project is being built for God's glory. If you'd like to contribute:
 
 - **Discord**: [Coming Soon]
 - **Twitter**: [@BiblicalChronicl](https://twitter.com/BiblicalChronicl)
-- **Email**: [your-email]
-
+- **Email**: careybrands@gmail.com
 ## 📜 License
 
 MIT License - See [LICENSE](LICENSE) file
