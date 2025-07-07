@@ -1,3 +1,9 @@
+![Unity](https://img.shields.io/badge/Unity-2022.3_LTS-black?logo=unity)
+![Cardano](https://img.shields.io/badge/Cardano-Blockchain-blue?logo=cardano)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-In_Development-yellow)
+![Biblical](https://img.shields.io/badge/Biblical_Accuracy-100%25-gold)
+
 # 🕊️ Biblical Chronicles: The Living Word
 
 > "Your word is a lamp for my feet, a light on my path." - Psalm 119:105
